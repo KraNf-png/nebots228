@@ -1,0 +1,12 @@
+token = "Njk1MzI4NDY3NDY1NTM1NjI4.XoYlKg.iTDrRlSd2ISfKIEeac6jsCKE_gg"
+
+Post_Id = 695347104696107099
+
+Roles = {
+    '😃': 695345814448373802, #gamerrole
+    '😄': 695345835692785717, #daynrole
+    '😅': 695345854881726536, #hyirol
+}
+Excroles = ()
+
+Max_Roles_Per_User = 2
