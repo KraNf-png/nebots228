@@ -1,0 +1,1 @@
+worker: python tes1.py
